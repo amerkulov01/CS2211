@@ -1,4 +1,4 @@
-# cs2211
+# CS2211
 Software Tools and System Programming
 An introductory C programming and Unix course taken at the University of Western Ontario.
 
